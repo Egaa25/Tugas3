@@ -35,7 +35,7 @@ if (isset($_POST['submit'])) {
 </head>
 
 <body>
-  <h1>Contact Form</h1>
+  <h1>Contact Us</h1>
   <form action="#" method="post" onsubmit="showNotification(); return false;">
     <label for="nama">Nama</label>
     <input type="text" name="nama" id="nama" placeholder="Masukkan nama" required />
